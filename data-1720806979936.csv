@@ -1,0 +1,6 @@
+"id","autor","fecha_creacion","mensaje","titulo","curso_id","status","autor_id","ano"
+"24",NULL,"2024-07-12 00:00:00","Este es el mensaje del tópico","Nuevo Tópico",1,"NO_RESPONDIDO","1",2024
+"30",NULL,"2024-07-12 17:00:00","Este es el primer tópico","Primer Tópico",1,"NO_RESPONDIDO","1",2024
+"31",NULL,"2024-07-12 17:00:00","Este es el segundo tópico","Segundo Tópico",1,"NO_RESPONDIDO","1",2024
+"32",NULL,"2024-07-12 17:00:00","Este es el segundo tópico","Segundo Tópico",1,"NO_RESPONDIDO","1",2024
+"33",NULL,"2024-07-12 17:00:00","Este es un tópico de prueba","Tópico de Prueba",1,"NO_RESPONDIDO","1",2024
