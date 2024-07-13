@@ -18,7 +18,7 @@ public class CustomUserDetailsService implements UserDetailsService {
     private UsuarioRepository usuarioRepository;
 
     @Autowired
-    private PasswordEncoder passwordEncoder;
+    private PasswordEncoder passwordEncoder;  // Usando el bean de EncoderConfig
 
     @Override
     public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
